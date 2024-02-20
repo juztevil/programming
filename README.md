@@ -1,3 +1,3 @@
 # programming
-programs for the given questions in sayur essentials
-All programs are written in Java
+Juzt random programs in the internet.
+Everuthing written in Java
