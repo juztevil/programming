@@ -1,3 +1,3 @@
 # programming
 Juzt random programs in the internet.
-Everuthing written in Java
+Everything written in Java
